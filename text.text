@@ -1,0 +1,25 @@
+// git commits
+
+git init 
+
+git add .
+
+git commit -m "kod haqida qisqa xabar"
+
+git log -> versiyalarni ko'rsatish
+
+git status -> hozirgi loyha holatini ko'rsatish
+
+
+
+// branchlar bilan ishlash
+
+// yangi branch yaratish
+git checkout "branch nomi"
+
+
+// brachga otish 
+git checkout "brach nomi"
+
+// branchlarni qo'shish (biriktirish)
+git merge "qo'shmoqchi bo'lgan brach nomi"
